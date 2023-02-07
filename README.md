@@ -1,2 +1,3 @@
 # Karan
-(https://user-images.githubusercontent.com/72380607/217197889-138b357d-7a62-4c34-8561-fe6520ae22ea.png)
+
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/72380607/217198133-f418faa6-c9b1-47d5-ab2f-ddce17eb3514.gif)
